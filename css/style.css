@@ -22,13 +22,13 @@ body {
 }
 
 h1 {
-    font-size: 64px;
+    font-size: 80px;
     font-family: ' Unbounded', sans-serif;
     text-align: center;
     
-    width: 500px;
+    width: 792px;
     height: 144px;
-    margin: 60px auto 0;
+    margin: 60px auto 64px;
 }
 
 h1 span {
